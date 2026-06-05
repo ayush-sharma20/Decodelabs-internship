@@ -21,5 +21,5 @@ def run_logic_engine():
             
         print("-" * 50)
 
-if  __name__ == "_main_":
+if  __name__ == "__main__":
     run_logic_engine()

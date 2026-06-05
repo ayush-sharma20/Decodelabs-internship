@@ -14,4 +14,4 @@ This project establishes a deterministic "White Box" Logic Engine using pure Pyt
 ## 🚀 Execution Instructions
 To run this project locally, execute the following command in your terminal:
 ```bash
-
+pythan main.py
